@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav-item{
+ color: black;
+ text-align: center;
+ text-decoration: none;
+
+}
+
+.nav li{
+    color: white;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.header-content{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: bisque;
+}
